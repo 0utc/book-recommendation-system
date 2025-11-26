@@ -1,32 +1,61 @@
 # Book Recommendation System
 
-A Python project that recommends books using multiple methods:  
+A Python project that recommends books using multiple approaches:
 
-- Genre-Based Filtering  
-- Random Recommendations  
-- Search-Based Filtering  
-- TF-IDF + Cosine Similarity
+- **Random Recommendations**
+- **Genre-Based Filtering**
+- **Search-Based Filtering**
+- **Content-Based Recommendations** using TF-IDF and Cosine Similarity
 
-## Installation
+---
 
-1. Clone the repo:
+## Project Structure
+
+```
+book-recommendation-system/
+├── README.md
+├── requirements.txt
+├── data/
+│   └── books.csv
+├── backend/
+│   ├── __init__.py
+│   ├── data_processing.py
+│   └── recommendations.py
+├── frontend/
+│   └── app.py
+└── deployment/
+    └── deploy_instructions.md
+```
+
+---
+
+## Setup
+
+1. Clone the repository:
+
+```bash
 git clone https://github.com/0utc/book-recommendation-system.git
-
-2. Navigate to the project directory:
 cd book-recommendation-system
+```
 
-3. Install dependencies:
+2. Install dependencies:
+
+```bash
 pip install -r requirements.txt
+```
 
-## Usage
+---
 
-Run the Streamlit app:
+## Run Locally
+
+```bash
 streamlit run frontend/app.py
+```
 
-## Dataset
+- The app will open in your browser at `http://localhost:8501`.
 
-The data/books.csv file contains 100 books with columns:
-title, author, genre, description, rating, pages, year
+---
 
 ## License
+
 MIT License
