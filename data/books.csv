@@ -1,114 +1,97 @@
 title,author,genre,description,rating,pages,year
-The Great Gatsby,F. Scott Fitzgerald,Classic,A story of wealth and love in the 1920s,4.2,180,1925
-To Kill a Mockingbird,Harper Lee,Classic,A story about racial inequality and moral growth,4.3,281,1960
-1984,George Orwell,Dystopian,A dystopian social science fiction novel,4.1,328,1949
-The Hobbit,J.R.R. Tolkien,Fantasy,A fantasy novel about Bilbo Baggins' adventure,4.5,310,1937
-Pride and Prejudice,Jane Austen,Romance,A romantic novel of manners,4.4,432,1813
-The Catcher in the Rye,J.D. Salinger,Coming-of-age,Story of teenage rebellion and alienation,3.8,234,1951
-Harry Potter and the Philosopher's Stone,J.K. Rowling,Fantasy,A young wizard discovers his magical heritage,4.7,320,1997
-The Da Vinci Code,Dan Brown,Mystery,A mystery thriller novel,3.9,489,2003
-The Alchemist,Paulo Coelho,Adventure,A philosophical book about following your dreams,4.6,208,1988
-The Hunger Games,Suzanne Collins,Dystopian,A dystopian novel about a televised death match,4.3,374,2008
-The Shining,Stephen King,Horror,A horror novel about a haunted hotel,4.2,447,1977
-Gone Girl,Gillian Flynn,Thriller,A psychological thriller about a missing wife,4.1,415,2012
-The Notebook,Nicholas Sparks,Romance,A romantic story about enduring love,4.0,214,1996
-Dune,Frank Herbert,Sci-Fi,A science fiction novel set in the distant future,4.4,412,1965
-The Lord of the Rings,J.R.R. Tolkien,Fantasy,An epic high fantasy adventure,4.8,1178,1954
-Animal Farm,George Orwell,Classic,A political allegory about revolution and power,4.0,112,1945
-Brave New World,Aldous Huxley,Dystopian,A novel about a futuristic society,4.1,288,1932
-The Chronicles of Narnia,C.S. Lewis,Fantasy,A series of fantasy novels about Narnia,4.2,767,1950
-The Kite Runner,Khaled Hosseini,Fiction,A story of friendship and redemption in Afghanistan,4.3,371,2003
-The Book Thief,Markus Zusak,Historical Fiction,A story about a girl in Nazi Germany,4.4,552,2005
-The Girl on the Train,Paula Hawkins,Thriller,A psychological thriller about a missing person,3.9,336,2015
-The Silent Patient,Alex Michaelides,Thriller,A psychological thriller about a woman's silence,4.1,325,2019
-Where the Crawdads Sing,Delia Owens,Mystery,A coming-of-age murder mystery,4.5,368,2018
-Educated,Tara Westover,Memoir,A memoir about growing up in a survivalist family,4.7,352,2018
-The Midnight Library,Matt Haig,Fiction,A novel about regrets and second chances,4.2,304,2020
-Project Hail Mary,Andy Weir,Sci-Fi,A sci-fi novel about an astronaut saving humanity,4.5,476,2021
-The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,Historical Fiction,A novel about Old Hollywood and secrets,4.4,389,2017
-A Game of Thrones,George R.R. Martin,Fantasy,Epic fantasy in the Seven Kingdoms,4.4,694,1996
-The Name of the Wind,Patrick Rothfuss,Fantasy,A fantasy novel about a gifted young man,4.5,662,2007
-Mistborn: The Final Empire,Brandon Sanderson,Fantasy,A fantasy heist novel with unique magic,4.5,541,2006
-The Handmaid's Tale,Margaret Atwood,Dystopian,A dystopian novel about gender oppression,4.1,311,1985
-Fahrenheit 451,Ray Bradbury,Dystopian,A novel about censorship and book burning,4.0,194,1953
-The Martian,Andy Weir,Sci-Fi,An astronaut stranded on Mars fights to survive,4.4,369,2011
-Ready Player One,Ernest Cline,Sci-Fi,A sci-fi novel set in a virtual reality world,4.2,374,2011
-Ender's Game,Orson Scott Card,Sci-Fi,A military sci-fi about child geniuses,4.3,324,1985
-The Stand,Stephen King,Horror,A post-apocalyptic horror novel,4.3,1153,1978
-It,Stephen King,Horror,A horror novel about a shape-shifting monster,4.2,1138,1986
-The Exorcist,William Peter Blatty,Horror,A horror novel about demonic possession,4.0,385,1971
-Dracula,Bram Stoker,Horror,The classic vampire novel,4.0,418,1897
-Frankenstein,Mary Shelley,Horror,A scientist creates a creature in an experiment,3.8,280,1818
-The Hating Game,Sally Thorne,Romance,A workplace romantic comedy,3.9,384,2016
-The Love Hypothesis,Ali Hazelwood,Romance,A fake-dating academic romance,4.1,384,2021
-Red, White & Royal Blue,Casey McQuiston,Romance,A romance between the First Son and a prince,4.2,423,2019
-The Bride Test,Helen Hoang,Romance,A cross-cultural romantic comedy,4.0,336,2019
-The Wedding Date,Jasmine Guillory,Romance,A fake dating romance story,3.7,320,2018
-The Subtle Art of Not Giving a F*ck,Mark Manson,Self-help,A counterintuitive approach to living a good life,3.9,224,2016
-Atomic Habits,James Clear,Self-help,A guide to building good habits and breaking bad ones,4.7,320,2018
-The Power of Now,Eckhart Tolle,Spirituality,A guide to spiritual enlightenment,4.1,236,1997
-Thinking, Fast and Slow,Daniel Kahneman,Psychology,About the two systems that drive our thinking,4.1,499,2011
-Sapiens,Yuval Noah Harari,History,A brief history of humankind,4.4,443,2011
-The Silent Patient,Alex Michaelides,Mystery,A psychological thriller with a shocking twist,4.1,325,2019
-And Then There Were None,Agatha Christie,Mystery,Ten people are killed one by one on an island,4.2,272,1939
-The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,A journalist investigates a disappearance,4.1,465,2005
-Gone Girl,Gillian Flynn,Thriller,A psychological thriller about a missing wife,4.1,415,2012
-The Reversal,Michael Connelly,Thriller,A legal thriller about a retrial,4.3,400,2010
-The Bourne Identity,Robert Ludlum,Thriller,An amnesiac discovers he's a trained assassin,4.0,523,1980
-The Firm,John Grisham,Legal Thriller,A young lawyer discovers his firm's dark secrets,4.0,448,1991
-The Client,John Grisham,Legal Thriller,A child knows too much about a mob lawyer's suicide,4.0,483,1993
-The Pelican Brief,John Grisham,Legal Thriller,A law student uncovers an assassination plot,4.0,371,1992
-The Hunt for Red October,Tom Clancy,Thriller,A Soviet submarine captain defects to the US,4.1,387,1984
-The Da Vinci Code,Dan Brown,Mystery,A symbologist solves a murder in the Louvre,3.9,489,2003
-Angels & Demons,Dan Brown,Mystery,Robert Langdon investigates the Illuminati,3.9,616,2000
-Digital Fortress,Dan Brown,Thriller,A codebreaker races to stop a dangerous program,3.7,510,1998
-Deception Point,Dan Brown,Thriller,A NASA discovery leads to a political conspiracy,3.8,585,2001
-The Lost Symbol,Dan Brown,Mystery,Robert Langdon searches for ancient mysteries,3.8,528,2009
-Origin,Dan Brown,Mystery,Robert Langdon investigates the origin of humanity,3.9,461,2017
-Inferno,Dan Brown,Mystery,Robert Langdon races to stop a global plague,4.0,481,2013
-The Cuckoo's Calling,Robert Galbraith,Mystery,A private investigator looks into a model's death,3.9,455,2013
-The Silkworm,Robert Galbraith,Mystery,An investigation into a novelist's brutal murder,4.1,455,2014
-Career of Evil,Robert Galbraith,Mystery,Cormoran Strike investigates a package with a severed leg,4.2,489,2015
-Lethal White,Robert Galbraith,Mystery,Strike investigates a crime from a troubled young man's past,4.3,656,2018
-Troubled Blood,Robert Galbraith,Mystery,Strike investigates a cold case of a missing doctor,4.4,944,2020
-The Thursday Murder Club,Richard Osman,Mystery,Retirees in a retirement village solve murders,4.1,382,2020
-The Man Who Died Twice,Richard Osman,Mystery,The Thursday Murder Club's second adventure,4.4,416,2021
-The Bullet That Missed,Richard Osman,Mystery,The third book in the Thursday Murder Club series,4.5,400,2022
-One by One,Ruth Ware,Thriller,Employees on a corporate retreat are killed one by one,3.8,368,2020
-The Woman in Cabin 10,Ruth Ware,Thriller,A journalist witnesses a murder on a cruise,3.8,340,2016
-In a Dark, Dark Wood,Ruth Ware,Thriller,A bachelorette party goes terribly wrong,3.7,352,2015
-The Turn of the Key,Ruth Ware,Thriller,A nanny in a smart house faces terrifying events,3.9,336,2019
-The Death of Mrs. Westaway,Ruth Ware,Thriller,A tarot reader inherits money from a stranger,3.9,368,2018
-The It Girl,Ruth Ware,Thriller,A woman investigates her friend's murder years later,4.0,416,2022
-The Sanatorium,Sarah Pearse,Thriller,A detective investigates murders at a remote hotel,3.7,400,2021
-The Paris Apartment,Lucy Foley,Thriller,A woman investigates her brother's disappearance,3.8,368,2022
-The Guest List,Lucy Foley,Thriller,A wedding on an island turns deadly,3.9,330,2020
-The Hunting Party,Lucy Foley,Thriller,Friends on a New Year's trip become targets,3.7,320,2019
-Rock Paper Scissors,Alice Feeney,Thriller,A couple's anniversary trip reveals dark secrets,4.0,304,2021
-Sometimes I Lie,Alice Feeney,Thriller,A woman in a coma tries to remember what happened,3.9,282,2017
-His & Hers,Alice Feeney,Thriller,A murder investigation from two perspectives,3.8,400,2020
-The Family Upstairs,Lisa Jewell,Thriller,A woman inherits a house with a dark history,3.9,368,2019
-Then She Was Gone,Lisa Jewell,Thriller,A mother investigates her daughter's disappearance,4.1,359,2017
-The Night She Disappeared,Lisa Jewell,Thriller,A young couple disappears without a trace,4.0,400,2021
-Invisible Girl,Lisa Jewell,Thriller,A teenage girl disappears in London,3.9,368,2020
-The Truth About the Harry Quebert Affair,Joël Dicker,Mystery,A writer investigates his mentor's past,3.9,643,2012
-The Secret History,Donna Tartt,Fiction,College students are consumed by their studies,4.1,559,1992
-The Goldfinch,Donna Tartt,Fiction,A boy steals a painting after a museum explosion,3.9,771,2013
-The Little Friend,Donna Tartt,Fiction,A girl investigates her brother's murder,3.6,555,2002
-A Little Life,Hanya Yanagihara,Fiction,A traumatic story of friendship and suffering,4.3,720,2015
-The People in the Trees,Hanya Yanagihara,Fiction,A scientist discovers an immortality secret,3.9,366,2013
-To Paradise,Hanya Yanagihara,Fiction,An alternative history of America,3.7,708,2022
-Normal People,Sally Rooney,Romance,A complex relationship between two teenagers,3.8,266,2018
-Conversations with Friends,Sally Rooney,Romance,Two college students befriend a married couple,3.7,304,2017
-Beautiful World, Where Are You,Sally Rooney,Romance,Four friends navigate life and love,3.6,356,2021
-Circe,Madeline Miller,Fantasy,A retelling of the myth of the witch Circe,4.3,393,2018
-The Song of Achilles,Madeline Miller,Fantasy,A retelling of the Achilles and Patroclus myth,4.4,416,2011
-Piranesi,Susanna Clarke,Fantasy,A man explores an endless house filled with statues,4.3,272,2020
-Jonathan Strange & Mr Norrell,Susanna Clarke,Fantasy,Two magicians bring magic back to England,4.1,1006,2004
-The Night Circus,Erin Morgenstern,Fantasy,Two magicians compete in a magical circus,4.0,512,2011
-The Starless Sea,Erin Morgenstern,Fantasy,A graduate student discovers a magical library,3.9,512,2019
-American Gods,Neil Gaiman,Fantasy,Old gods vs new gods in modern America,4.1,635,2001
-Neverwhere,Neil Gaiman,Fantasy,A man discovers London's magical underworld,4.2,370,1996
-Good Omens,Neil Gaiman & Terry Pratchett,Fantasy,An angel and demon try to stop the apocalypse,4.3,432,1990
-The Ocean at the End of the Lane,Neil Gaiman,Fantasy,A man remembers his magical childhood,4.0,181,2013
-Stardust,Neil Gaiman,Fantasy,A young man enters a magical realm for love,4.1,248,1999
+To Kill a Mockingbird,Harper Lee,Fiction,A gripping tale of racial injustice and childhood innocence in the Depression-era South,4.8,324,1960
+1984,George Orwell,Dystopian,A chilling dystopian novel about totalitarianism and surveillance in a future authoritarian state,4.7,328,1949
+Pride and Prejudice,Jane Austen,Romance,A witty romantic novel exploring marriage and social class in Regency England,4.6,432,1813
+The Great Gatsby,F. Scott Fitzgerald,Fiction,A portrait of the Jazz Age excess and the American Dream through mysterious millionaire Jay Gatsby,4.4,180,1925
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,A young wizard discovers his magical heritage and begins his adventures at Hogwarts School,4.7,309,1997
+The Catcher in the Rye,J.D. Salinger,Fiction,A teenager's cynical journey through New York City after expulsion from prep school,4.0,234,1951
+The Hobbit,J.R.R. Tolkien,Fantasy,A reluctant hobbit embarks on an epic quest to help dwarves reclaim their mountain home,4.7,310,1937
+The Lord of the Rings,J.R.R. Tolkien,Fantasy,An epic quest to destroy a powerful ring and save Middle-earth from darkness,4.8,1178,1954
+Animal Farm,George Orwell,Satire,A satirical allegory of Soviet totalitarianism told through a farmyard revolution,4.3,112,1945
+The Diary of a Young Girl,Anne Frank,Biography,The powerful diary of a Jewish girl hiding from Nazis during World War II,4.6,283,1947
+The Book Thief,Markus Zusak,Historical Fiction,Death narrates the story of a girl stealing books in Nazi Germany,4.6,552,2005
+The Chronicles of Narnia,C.S. Lewis,Fantasy,Children discover a magical wardrobe leading to a fantasy world of talking animals and epic battles,4.5,767,1950
+Brave New World,Aldous Huxley,Dystopian,A disturbing vision of a future society obsessed with pleasure and conformity,4.1,268,1932
+Jane Eyre,Charlotte Brontë,Romance,An orphaned governess finds love and independence in Victorian England,4.5,507,1847
+Wuthering Heights,Emily Brontë,Gothic Romance,A passionate and destructive love story on the Yorkshire moors,4.2,416,1847
+The Hunger Games,Suzanne Collins,Dystopian,Teenagers fight to the death in a televised spectacle in a post-apocalyptic nation,4.5,374,2008
+Catch-22,Joseph Heller,Satire,A darkly comic novel about the absurdity of war and military bureaucracy,4.2,453,1961
+The Handmaid's Tale,Margaret Atwood,Dystopian,Women are enslaved for reproduction in a totalitarian theocratic regime,4.4,311,1985
+Gone with the Wind,Margaret Mitchell,Historical Fiction,An epic Civil War romance following a Southern belle's survival and transformation,4.5,1037,1936
+The Fault in Our Stars,John Green,Young Adult,Two teenagers with cancer fall in love and embark on a life-changing journey,4.3,313,2012
+The Grapes of Wrath,John Steinbeck,Fiction,A family's desperate journey during the Great Depression and Dust Bowl,4.3,464,1939
+Lord of the Flies,William Golding,Fiction,British schoolboys stranded on an island descend into savagery,4.0,224,1954
+The Kite Runner,Khaled Hosseini,Fiction,A powerful story of friendship and redemption set in Afghanistan,4.5,371,2003
+Life of Pi,Yann Martel,Adventure,A boy survives 227 days at sea on a lifeboat with a Bengal tiger,4.2,319,2001
+The Alchemist,Paulo Coelho,Fiction,A shepherd boy's mystical journey to find his personal legend,4.3,208,1988
+Fahrenheit 451,Ray Bradbury,Dystopian,Firemen burn books in a future society that fears knowledge and free thought,4.4,249,1953
+Charlotte's Web,E.B. White,Children's,A spider saves a pig's life through words woven in her web,4.6,192,1952
+A Tale of Two Cities,Charles Dickens,Historical Fiction,Love and sacrifice during the French Revolution's tumultuous period,4.3,489,1859
+The Little Prince,Antoine de Saint-Exupéry,Children's,A poetic tale of a young prince exploring the universe and human nature,4.6,96,1943
+Moby-Dick,Herman Melville,Adventure,Captain Ahab's obsessive quest to hunt down a legendary white whale,4.0,635,1851
+The Picture of Dorian Gray,Oscar Wilde,Gothic Fiction,A man remains young while his portrait ages bearing the marks of his sins,4.4,254,1890
+Frankenstein,Mary Shelley,Gothic Fiction,A scientist creates life with horrifying consequences in this Gothic masterpiece,4.2,280,1818
+Dracula,Bram Stoker,Horror,The classic vampire novel that defined the genre forever,4.3,418,1897
+The Adventures of Huckleberry Finn,Mark Twain,Adventure,A boy and escaped slave raft down the Mississippi River seeking freedom,4.1,366,1884
+Crime and Punishment,Fyodor Dostoevsky,Philosophical Fiction,A poor student murders a pawnbroker and grapples with guilt and redemption,4.5,671,1866
+War and Peace,Leo Tolstoy,Historical Fiction,An epic exploration of Russian society during the Napoleonic Wars,4.4,1225,1869
+Anna Karenina,Leo Tolstoy,Fiction,A married woman's affair leads to tragic consequences in Russian high society,4.4,964,1878
+The Brothers Karamazov,Fyodor Dostoevsky,Philosophical Fiction,Three brothers grapple with faith morality and patricide in 19th century Russia,4.6,796,1880
+One Hundred Years of Solitude,Gabriel García Márquez,Magical Realism,The multi-generational saga of the Buendía family in the fictional town of Macondo,4.5,417,1967
+The Count of Monte Cristo,Alexandre Dumas,Adventure,A wrongly imprisoned man's elaborate revenge against those who betrayed him,4.6,1276,1844
+Les Misérables,Victor Hugo,Historical Fiction,An ex-convict's quest for redemption amid poverty and revolution in 19th century France,4.5,1463,1862
+The Odyssey,Homer,Epic Poetry,The epic Greek tale of Odysseus's perilous ten-year journey home after the Trojan War,4.2,541,-700
+The Iliad,Homer,Epic Poetry,The epic poem chronicling the final weeks of the Trojan War,4.1,683,-750
+Don Quixote,Miguel de Cervantes,Satire,A delusional nobleman believes he's a knight-errant and embarks on chivalrous adventures,4.2,1023,1605
+Great Expectations,Charles Dickens,Fiction,An orphan's journey from poverty to gentleman through mysterious patronage,4.3,505,1861
+The Divine Comedy,Dante Alighieri,Epic Poetry,Dante's allegorical journey through Hell Purgatory and Paradise,4.3,798,1320
+Romeo and Juliet,William Shakespeare,Tragedy,Two young lovers from feuding families meet a tragic fate,4.5,296,1597
+Hamlet,William Shakespeare,Tragedy,A Danish prince seeks revenge for his father's murder,4.4,342,1603
+Macbeth,William Shakespeare,Tragedy,A Scottish general's ambition leads to murder and madness,4.3,249,1606
+The Scarlet Letter,Nathaniel Hawthorne,Historical Fiction,A woman bears public shame for adultery in Puritan New England,4.0,272,1850
+Alice's Adventures in Wonderland,Lewis Carroll,Fantasy,A girl falls down a rabbit hole into a bizarre fantasy world,4.4,200,1865
+Of Mice and Men,John Steinbeck,Fiction,Two migrant workers dream of owning land during the Great Depression,4.2,107,1937
+The Old Man and the Sea,Ernest Hemingway,Fiction,An aging Cuban fisherman battles a giant marlin in the Gulf Stream,4.1,127,1952
+For Whom the Bell Tolls,Ernest Hemingway,War Fiction,An American volunteer fights in the Spanish Civil War,4.3,471,1940
+The Sun Also Rises,Ernest Hemingway,Fiction,American and British expatriates travel from Paris to Pamplona,4.2,251,1926
+Slaughterhouse-Five,Kurt Vonnegut,Science Fiction,A World War II soldier becomes unstuck in time,4.3,275,1969
+One Flew Over the Cuckoo's Nest,Ken Kesey,Fiction,A rebellious criminal challenges authority in a mental institution,4.5,325,1962
+On the Road,Jack Kerouac,Fiction,A semi-autobiographical tale of spontaneous road trips across America,4.0,307,1957
+The Bell Jar,Sylvia Plath,Fiction,A talented young woman's descent into mental illness,4.2,244,1963
+Beloved,Toni Morrison,Historical Fiction,A former slave is haunted by her past and the ghost of her dead daughter,4.3,324,1987
+The Color Purple,Alice Walker,Fiction,An African American woman's struggle through abuse to find her voice,4.5,295,1982
+Invisible Man,Ralph Ellison,Fiction,A Black man's search for identity in a racially divided America,4.3,581,1952
+A Clockwork Orange,Anthony Burgess,Dystopian,A violent youth undergoes behavioral modification in a dystopian future,4.1,192,1962
+The Shining,Stephen King,Horror,A family's winter isolation in a haunted hotel leads to madness,4.3,447,1977
+It,Stephen King,Horror,A group of friends confronts an evil entity terrorizing their town,4.3,1138,1986
+The Stand,Stephen King,Horror,Survivors of a plague face the ultimate battle between good and evil,4.5,1153,1978
+Carrie,Stephen King,Horror,A bullied girl with telekinetic powers takes violent revenge,4.1,199,1974
+Dune,Frank Herbert,Science Fiction,A desert planet holds the key to the universe's most valuable resource,4.5,688,1965
+Foundation,Isaac Asimov,Science Fiction,A mathematician predicts the fall of a galactic empire and plans for its rebirth,4.4,255,1951
+Ender's Game,Orson Scott Card,Science Fiction,A child genius is trained in military strategy to fight an alien invasion,4.5,324,1985
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,A comedic journey through space after Earth's destruction,4.6,224,1979
+Neuromancer,William Gibson,Cyberpunk,A washed-up hacker is hired for one last job in cyberspace,4.2,271,1984
+Snow Crash,Neal Stephenson,Cyberpunk,A pizza delivery driver uncovers a conspiracy in a virtual metaverse,4.3,559,1992
+American Gods,Neil Gaiman,Fantasy,Old gods face off against new gods in contemporary America,4.3,465,2001
+Good Omens,Neil Gaiman & Terry Pratchett,Fantasy,An angel and demon team up to prevent the apocalypse,4.5,383,1990
+The Name of the Wind,Patrick Rothfuss,Fantasy,A legendary wizard recounts his journey from orphan to notorious figure,4.6,662,2007
+A Game of Thrones,George R.R. Martin,Fantasy,Noble families vie for control of the Iron Throne in a land of seasons that last years,4.6,694,1996
+The Way of Kings,Brandon Sanderson,Fantasy,Knights and slaves navigate a world of magic and ancient warfare,4.6,1007,2010
+Mistborn,Brandon Sanderson,Fantasy,A street urchin joins a rebellion to overthrow an immortal emperor,4.6,541,2006
+The Night Circus,Erin Morgenstern,Fantasy,Two young magicians duel through a mysterious circus in Victorian times,4.3,387,2011
+The Shadow of the Wind,Carlos Ruiz Zafón,Mystery,A boy discovers a mysterious book that changes his life in post-war Barcelona,4.5,487,2001
+The Girl with the Dragon Tattoo,Stieg Larsson,Mystery,A journalist and hacker investigate a wealthy family's dark secrets,4.3,465,2005
+The Da Vinci Code,Dan Brown,Thriller,A symbologist uncovers a religious mystery through cryptic clues,4.0,489,2003
+Angels & Demons,Dan Brown,Thriller,A Harvard professor races to prevent a terrorist attack on the Vatican,4.1,616,2000
+The Silence of the Lambs,Thomas Harris,Thriller,An FBI trainee seeks help from a cannibalistic psychiatrist to catch a serial killer,4.4,338,1988
+Gone Girl,Gillian Flynn,Thriller,A wife's disappearance reveals dark secrets in a twisted marriage,4.3,415,2012
+The Girl on the Train,Paula Hawkins,Thriller,A troubled woman becomes entangled in a missing person investigation,4.1,336,2015
+Big Little Lies,Liane Moriarty,Fiction,Three women's lives collide in a web of secrets and lies,4.3,460,2014
+Where the Crawdads Sing,Delia Owens,Fiction,A marsh girl is accused of murder in a compelling coming-of-age story,4.7,368,2018
+The Help,Kathryn Stockett,Historical Fiction,Black maids share their stories with a white woman in 1960s Mississippi,4.6,451,2009
+The Notebook,Nicholas Sparks,Romance,An elderly man reads to his wife from a notebook recounting their love story,4.2,214,1996
+Me Before You,Jojo Moyes,Romance,A caregiver forms a life-changing bond with her paralyzed patient,4.4,369,2012
+Twilight,Stephenie Meyer,Young Adult,A teenage girl falls in love with a vampire in small-town Washington,4.0,498,2005
+The Perks of Being a Wallflower,Stephen Chbosky,Young Adult,An introverted teenager navigates high school through letters,4.4,213,1999
+Divergent,Veronica Roth,Dystopian,A girl discovers she doesn't fit into her society's rigid faction system,4.2,487,2011
+The Maze Runner,James Dashner,Dystopian,A boy wakes in a maze with no memory and must find a way out,4.1,375,2009
