@@ -13,17 +13,15 @@ from recommendations import (
     build_tfidf_matrix,
     recommend_similar
 )
-
 st.set_page_config(
     page_title="Book Recommendation System - University Project",
     page_icon="📚",
     layout="centered"
 )
-
 st.title("📚 Book Recommendation System - University Project")
 st.markdown("---")
-
 @st.cache_data
+# Load and clean dataset once to improve performance
 def load_and_prepare_data():
     try:
         df = load_data("../data/books.csv")
@@ -34,6 +32,7 @@ def load_and_prepare_data():
         return pd.DataFrame()
 
 @st.cache_data
+ # Build and cache TF-IDF matrix for content-based recommendations
 def get_cached_tfidf(df):
     if df.empty:
         return None, None
@@ -44,6 +43,7 @@ df = load_and_prepare_data()
 if df.empty:
     st.warning(" No data available. Make sure books.csv exists in the data/ folder.")
 else:
+     #Used later to compute similarity between books
     tfidf_matrix, vectorizer = get_cached_tfidf(df)
     
     col1, col2, col3 = st.columns(3)
@@ -66,6 +66,7 @@ else:
         search_limit = st.number_input("Max", min_value=1, max_value=10, value=10, key="search_limit", help="Max: 10 books")
     
     if search_query:
+        # Search books by title or author using keywords
         search_results = search_books(df, search_query, limit=search_limit)
         if not search_results.empty:
             st.write(f"**Search Results ({len(search_results)} books):**")
@@ -96,6 +97,7 @@ else:
             genre_limit = st.number_input("Max", min_value=1, max_value=10, value=10, key="genre_limit", help="Max: 10 books")
         
         if selected_genre != "Select...":
+            # Recommend books that belong to the selected genre
             genre_books = recommend_by_genre(df, selected_genre, limit=genre_limit)
             if not genre_books.empty:
                 st.write(f"**Books in {selected_genre} ({len(genre_books)} shown):**")
@@ -122,6 +124,7 @@ else:
         st.session_state.show_random = False
     
     if st.session_state.show_random:
+        # Recommend random books to help users discover new content
         random_books = recommend_random(df, limit=random_limit)
         if not random_books.empty:
             st.write(f"**Random Book Suggestions ({len(random_books)} books):**")
@@ -157,4 +160,3 @@ st.markdown("### 👥 Project Info")
 st.write("**Project:** Book Recommendation System")
 st.write("**Backend:** Oussama Aissati")
 st.write("**Frontend:** Bouich Mohamed")
-st.write(f"**Maximum books per request:** 10")
