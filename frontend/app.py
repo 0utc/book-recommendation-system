@@ -30,13 +30,19 @@ st.set_page_config(
 st.title("📚 Book Recommendation System - University Project")
 st.markdown("---")
 
+# Path to books.csv relative to this file
+DATA_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'data', 'books.csv'))
+
 # Load and prepare data
 @st.cache_data
 def load_and_prepare_data():
     try:
-        df = load_data("../data/books.csv")
+        df = load_data(DATA_PATH)
         df = clean_data(df)
         return df
+    except FileNotFoundError:
+        st.error(f"Data file not found at {DATA_PATH}")
+        return pd.DataFrame()
     except Exception as e:
         st.error(f"Error loading data: {e}")
         return pd.DataFrame()
@@ -73,7 +79,6 @@ if not df.empty:
         search_results = search_books(df, search_query, limit=search_limit)
         if not search_results.empty:
             st.write(f"**Search Results ({len(search_results)} books):**")
-            # Select a book for similar recommendations
             selected_title = st.selectbox(
                 "Select a book to see similar recommendations:",
                 ["Select a book..."] + search_results["title"].tolist()
