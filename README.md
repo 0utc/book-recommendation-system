@@ -7,6 +7,8 @@ A Python project that recommends books using multiple approaches:
 - **Search-Based Filtering**
 - **Content-Based Recommendations** using TF-IDF and Cosine Similarity
 
+A live version of the app has been deployed and can be accessed [here](https://book-rec-system.streamlit.app).
+
 ---
 
 ## Project Structure
@@ -53,6 +55,13 @@ streamlit run frontend/app.py
 ```
 
 - The app will open in your browser at `http://localhost:8501`.
+
+---
+
+## Deployment
+
+- The app is deployed online and accessible at: [https://book-rec-system.streamlit.app](https://book-rec-system.streamlit.app)  
+- Deployment was done using Streamlit's hosting platform.  
 
 ---
 
