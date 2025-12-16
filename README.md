@@ -60,8 +60,8 @@ streamlit run frontend/app.py
 
 ## Deployment
 
-- The app is deployed online and accessible at: [https://book-rec-system.streamlit.app](https://book-rec-system.streamlit.app)  
-- Deployment was done using Streamlit's hosting platform.  
+- The app is deployed online and accessible at: [Open Deployed App](https://book-rec-system.streamlit.app){:target="_blank"}
+- Deployment was done using Streamlit's hosting platform.
 
 ---
 
